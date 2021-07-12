@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7c2ac7d4-1217-469f-8bc0-4eeb9894afa5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -8,6 +9,12 @@
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gitTest.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="35e99c9e-2a1a-4132-a792-48f041a23d47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitTest01/gitTest01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitTest01/src/com/alphawu/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitTest01/src/com/alphawu/domain/Person.java" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +28,11 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\JavaStudy\maven\maven_work\repository" />
+<<<<<<< HEAD
         <option name="mavenHome" value="$PROJECT_DIR$/../../maven/maven_work/apache-maven-3.3.9" />
+=======
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/maven_work/apache-maven-3.3.9" />
+>>>>>>> origin/master
         <option name="userSettingsFile" value="D:\JavaStudy\maven\maven_work\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -30,12 +41,16 @@
     <option name="jreName" value="13" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1vCfu6SyXB4u1SkYqQKJICoBakB" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
+=======
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> origin/master
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -47,6 +62,7 @@
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <task active="true" id="Default" summary="Default task">
       <changelist id="7c2ac7d4-1217-469f-8bc0-4eeb9894afa5" name="Default Changelist" comment="" />
       <created>1626071210322</created>
@@ -96,5 +112,14 @@
       <screen x="0" y="0" width="1707" height="1027" />
     </state>
     <state x="573" y="287" key="git4idea.merge.GitPullDialog/0.0.1707.1027@0.0.1707.1027" timestamp="1626071562424" />
+=======
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="0" key="CommitChangelistDialog2" timestamp="1626071322704">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="457" y="0" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1626071322704" />
+>>>>>>> origin/master
   </component>
 </project>
