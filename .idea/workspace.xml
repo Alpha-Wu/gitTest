@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35e99c9e-2a1a-4132-a792-48f041a23d47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitTest01/gitTest01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitTest01/src/com/alphawu/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/gitTest01/src/com/alphawu/domain/Person.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="D:\JavaStudy\maven\maven_work\repository" />
-        <option name="mavenHome" value="D:/JavaStudy/maven/maven_work/apache-maven-3.3.9" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/maven_work/apache-maven-3.3.9" />
         <option name="userSettingsFile" value="D:\JavaStudy\maven\maven_work\apache-maven-3.3.9\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -13,7 +27,20 @@
     <option name="jreName" value="13" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="0" key="CommitChangelistDialog2" timestamp="1626071322704">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="457" y="0" key="CommitChangelistDialog2/0.0.1707.1027@0.0.1707.1027" timestamp="1626071322704" />
   </component>
 </project>
